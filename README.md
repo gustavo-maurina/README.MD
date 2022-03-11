@@ -1,5 +1,5 @@
 
-<span style='font-size:18px;font-weight:bold'>Gustavo Maurina <span style='font-size:14px !important'> Web | mobile full-stack developer</span></span>
+<h1 style='font-size:18px;font-weight:bold'>Gustavo Maurina <h3 style='font-size:14px !important'> Web | mobile full-stack developer</h3></h1>
 
 
 **Stack:**  
