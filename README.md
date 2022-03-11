@@ -1,5 +1,5 @@
 ### Gustavo Maurina 
-<p style='font-size:14px !important'>Web | mobile developer</p>
+<p style='font-size:14px !important'>Web | mobile full-stack developer</p>
 
 
 **Stack:**  
