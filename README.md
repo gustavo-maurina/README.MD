@@ -2,7 +2,7 @@
 <h1 style='font-size:18px;font-weight:bold'>Gustavo Maurina </h1>
  
   <div style='font-size:14px;display:flex;align-items:center'>
-    🛠 <span>Web | mobile full-stack developer</span>
+    🛠 <p>Web | mobile full-stack developer</p>
   </div>
  
 
