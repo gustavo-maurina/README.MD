@@ -1,4 +1,4 @@
-### Gustavo Maurina ####Web | mobile developer
+### Gustavo Maurina <p style='font-size:16px'>Web | mobile developer</p>
 
 
 **Stack:**  
