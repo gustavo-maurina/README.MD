@@ -1,6 +1,6 @@
 
 <h1 style='font-size:18px;font-weight:bold'>Gustavo Maurina </h1>
- <h3 style='font-size:14px !important'> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Web | mobile full-stack developer</h3>
+ <h3 style='font-size:14px !important'> <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="25px"> Web | mobile full-stack developer</h3>
 
 
 
