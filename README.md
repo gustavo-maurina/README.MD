@@ -1,4 +1,5 @@
 ### Gustavo Maurina
+#### Web | mobile developer
 
 
 **Stack:**  
