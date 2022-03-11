@@ -1,4 +1,4 @@
-### Gustavo Maurina <p style='font-size:16px'>Web | mobile developer</p>
+### Gustavo Maurina <p style='font-size:14px'>Web | mobile developer</p>
 
 
 **Stack:**  
