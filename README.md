@@ -1,7 +1,7 @@
 
 ## Gustavo Farias Maurina 
  
-<p>🛠 Web | mobile full-stack developer</p>
+<p>🛠 :computer: Web | mobile full-stack developer</p>
 
 ### Stack
 
