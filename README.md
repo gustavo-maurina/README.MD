@@ -19,4 +19,3 @@
 
 <br />
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gustavo-maurina&show_icons=true&theme=radical" alt="gustavo-maurina" />
